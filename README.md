@@ -7,9 +7,9 @@
 
 ## Table of Contents
 
-- [Usage] (#usage)
-- [License] (#License)
-- [Questions] (#Questions)
+- [Usage](#Usage)
+- [License](#License)
+- [Questions](#Questions)
 
 ## Usage
 
