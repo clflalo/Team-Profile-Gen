@@ -22,7 +22,7 @@ describe('Employee', () => {
         });
     });
     
-    describe('getRole', () => {
+    describe( 'getRole', () => {
         it('should return employees role correctly', () => {
             let testEmployee = new Employee('Jesus', 1,  '22laloc@gmail.com');
             expect(testEmployee.getRole()).toBe('Employee');
@@ -46,4 +46,4 @@ describe('Employee', () => {
         });
     });
     
-});
+}); 
